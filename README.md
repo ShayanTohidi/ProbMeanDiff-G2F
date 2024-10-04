@@ -1,6 +1,6 @@
 # ProbMeanDiff-G2F
 
-These datasets are constructed based on yearly phenotypic datasets in [G2F](https://www.genomes2fields.org/resources/). Thus, we end up with a lot of complete datasets with replication.
+These datasets are constructed based on yearly maize phenotypic datasets in [G2F](https://www.genomes2fields.org/resources/). Thus, we end up with a lot of complete datasets with replication.
 
 ## Introduction
 
